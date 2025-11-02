@@ -1,0 +1,6 @@
+# Environment variables
+.env
+
+# Database + Metabase data
+postgres_data/
+metabase-data/
